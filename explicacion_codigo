@@ -1,1 +1,4 @@
-
+explicacion_codigo:
+de la linea 5 a la 7 declaramos nuestras librerias que vamos a ocupar
+en la linea 11 creamos nuestra funcion encargada de volteaar la imagen y volverla gris
+de la linea 67 a 72 creamos el main en el cual asignamos la funcion para usar threads y por ultimo mandamos a llamar la funcion encargada de rotar las imagenes"img root"
