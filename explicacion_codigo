@@ -1,4 +1,8 @@
 explicacion_codigo:
-de la linea 5 a la 7 declaramos nuestras librerias que vamos a ocupar
-en la linea 11 creamos nuestra funcion encargada de volteaar la imagen y volverla gris
-de la linea 67 a 72 creamos el main en el cual asignamos la funcion para usar threads y por ultimo mandamos a llamar la funcion encargada de rotar las imagenes"img root"
+-de la linea 5 a la 7 declaramos nuestras librerias que vamos a ocupar
+-en la linea 11 creamos nuestra funcion encargada de volteaar la imagen y volverla gris
+-de la linea 12 a la 15 creamos dos cadenas de caracteres en la cual se va a cargar las imagenes de la carpeta y posteriormente descargar con el nombre en especifico
+-de la linea 21 a la 23 creamos variables y cadenas de caracter para sacar las caracteristicas de las imagenes
+-de la linea 37 a la 50 tenemos un wile que es el encargado de convertir las imagenes a escala de grises 
+-de la 52 a la 65 tenemos dos for que son los encargados de voltear la imagen 
+-de la linea 67 a 72 creamos el main en el cual asignamos la funcion para usar threads y por ultimo mandamos a llamar la funcion encargada de rotar las imagenes"img root"
