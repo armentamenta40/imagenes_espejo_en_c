@@ -1,4 +1,6 @@
-# imagenes_espejo_en_c
+//imagenes_espejo_en_c
+//Alejandro Armenta Arellano
+//A01734879
 
 #include <stdio.h>
 #include <stdlib.h>
